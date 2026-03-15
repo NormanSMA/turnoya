@@ -1,0 +1,35 @@
+{
+  "app": {
+    "name": "TurnoYa",
+    "tagline": "Agenda de citas simple y rapida"
+  },
+  "nav": {
+    "dashboard": "Inicio",
+    "appointments": "Citas",
+    "services": "Servicios",
+    "settings": "Configuracion"
+  },
+  "auth": {
+    "login": "Iniciar sesion",
+    "logout": "Cerrar sesion",
+    "email": "Correo electronico",
+    "password": "Contrasena"
+  },
+  "appointments": {
+    "new": "Nueva cita",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "status": {
+      "pending": "Pendiente",
+      "confirmed": "Confirmada",
+      "cancelled": "Cancelada"
+    }
+  },
+  "common": {
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "loading": "Cargando...",
+    "error": "Ocurrio un error"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "app": {
+    "name": "TurnoYa",
+    "tagline": "Simple and fast appointment scheduling"
+  },
+  "nav": {
+    "dashboard": "Home",
+    "appointments": "Appointments",
+    "services": "Services",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Sign in",
+    "logout": "Sign out",
+    "email": "Email address",
+    "password": "Password"
+  },
+  "appointments": {
+    "new": "New appointment",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled"
+    }
+  },
+  "common": {
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  }
+}
